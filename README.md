@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samrita-K
+- 👋 Hi, I’m Samrita Kulkarni
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... Data Analytics
 - 💞️ I’m looking to collaborate on ... Working on different datasets 
