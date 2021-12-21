@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samrita Kulkarni
-- 👀 I’m interested in ... Data Science
+- 👀 I’m interested in ... Data analysis and Data Science
 - 🌱 I’m currently learning ... Data Analytics
-- 💞️ I’m looking to collaborate on ... Working on different datasets 
+- 💞️ I’m looking to collaborate on ... Working and exploring different datasets 
 - 📫 How to reach me ... email me to samrita.k@gmail.com
 
 <!---
